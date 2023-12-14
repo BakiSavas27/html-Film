@@ -1,0 +1,60 @@
+h1{
+    color: white;
+    text-align: center;
+
+
+}
+#q{
+    color: red;
+   
+}
+i{
+    color: white;
+    
+}
+p{
+    text-align: center;
+}
+
+
+textarea{
+    resize: none;
+}
+fieldset{
+    
+    background-color: rgb(0, 0, 0, 0.80);
+    
+}
+label{
+    color: white;
+    text-align: start;
+    
+}
+/* #b{
+    margin-right: 140px;
+}
+#c{
+    margin-right: 150px;
+
+}
+#d{
+    margin-right: 140px;
+}
+#e{
+    margin-right: 90px;
+} */
+form{
+    display: flex;
+    justify-content: center;
+
+}
+#buton{
+    justify-content: center;
+    display: flex;
+    
+
+}
+button{
+    background-color: red;
+    color: white;
+}
